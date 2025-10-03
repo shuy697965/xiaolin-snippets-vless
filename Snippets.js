@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-let userID = '02ea78b1-528f-495a-bea5-9daf26e0efa6';
+let userID = '02ea78b1-528f-495a-bea5-9daf26e0efa6'; // 替换自己的UUID
 
 let proxyIP = 'proxyip.cmliussss.net'; 
 
